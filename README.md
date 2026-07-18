@@ -41,4 +41,4 @@ npm run dev
 
 ## Author
 
-Sidduraj Kumar
+Siddu Rajkumar
